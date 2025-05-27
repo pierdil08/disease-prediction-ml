@@ -18,7 +18,7 @@ This machine learning project analyzes patient clinical data to predict disease 
 - Seaborn, Matplotlib
 - Jupyter Notebooks
 
-  ## 🛠️ How to Run
+## 🛠️ How to Run
 
 1. Load data in `notebook/analysis.ipynb`
 2. Run preprocessing + model cells
